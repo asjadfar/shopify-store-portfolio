@@ -2,7 +2,7 @@
 Portfolio of Shopify store design work by Asjad Farooq.
 ## Live Store: Fragrance Empire
 - Website: https://fragranceempire.my
-- 141 products, 18 brands, Malaysia
+- 155 products, 18 brands, Malaysia
 - Horizon theme, mobile-first design
 - 13 fixed bundles, COD and card payments, free delivery
 ## Services
